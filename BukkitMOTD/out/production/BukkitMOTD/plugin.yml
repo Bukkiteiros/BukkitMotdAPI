@@ -1,0 +1,5 @@
+name: BukkitMOTD
+version: 1.0
+main: org.tiostitch.bukkitmotd.Main
+author: [TioStitch]
+description: MOTD creation Api | Api de criação de Motds.
